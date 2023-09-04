@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+This is my first Flutter application. It will generate random word-pairs like rawtune, freescore, lightstream
 
 Screenshots:
 
