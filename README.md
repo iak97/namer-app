@@ -14,6 +14,6 @@ Screenshots:
 
 What's next ?
 
-In Flutter, everything is a widget. so ready focus on widgets.
+In Flutter, everything is a widget. so the next focus on widgets.
 
 https://docs.flutter.dev/ui/widgets/basics
