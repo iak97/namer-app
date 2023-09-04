@@ -1,6 +1,6 @@
 # namer_app
 
-This is my first Flutter application. It will generate random word-pairs like rawtune, freescore, lightstream
+This is my first Flutter application. It will generate random word-pairs like "rawtune", "freescore", "lightstream". The user will get the next name if he clicks the next button, make the current one as favorite, and list of favorited names on a separate page.
 
 Screenshots:
 
